@@ -1,0 +1,64 @@
+#heading {
+  float: right;
+  padding: 20px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  width: 50%;
+  background-color: e1ad01;
+  padding-top: 100px;
+}
+.products {
+  color: black;
+  padding: 10px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.about-us {
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 10%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.hours {
+  border: 1px solid black;
+  float: right;
+  padding: 20px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  width: 50%;
+  background-color: #e1ad01;
+}
+.order {
+  float: left;
+  padding: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 50%;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  width: 100%;
+  background-color: #e1ad01;
+  text-align: center;
+}
+/**/
+.cakes {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.ingredients {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+.tools {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}
